@@ -1,7 +1,7 @@
 # Superstore-Sales-Report
 
 
-![Dasboard Mockup](images/SuperstoreReportGIF.gif)
+![Dasboard Mockup](images/SalesReportGIF.gif)
 
 
 # Table of Contents
@@ -10,7 +10,7 @@
 - [Project brief](#Project-brief)
 - [Objective](#Objective)
 - [Questions to Answer](#Questions-to-Answer)
-- [Data source](#Data-source)
+- [Data source](#Data)
 - [Tools](#Tools)
 - [Dashboard design charts](#Dashboard-design-charts)
 - [Development](#Developments)
@@ -62,7 +62,7 @@ To identify top-performing product lines, customer segments, and shipping method
 15.   Based on current trends, what will next quarter's top-selling sub-category likely be?
 
 
-## Data source
+## Data
 
 Here are the columns used in achieving project goal
 
@@ -97,7 +97,9 @@ Here is a list of appropriate chart visuals used in answering key questions.
 7.	  Line chart
 8.	  Filter panel
 
-![Dasboard design](images/Call%20center%20Report.PNG)
+![Dasboard design](images/Dashboard1.PNG)
+
+![Dasboard design](images/Dashboard2.PNG)
 
 
 # Development
@@ -149,6 +151,9 @@ The goal is to clean the dataset to ensure data integrity, accuracies and standa
 
 
 ![Processing](images/010.PNG)
+
+
+![Processing](images/011.PNG)
 
 
 ## Findings
