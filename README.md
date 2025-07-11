@@ -1,4 +1,4 @@
-# Superstore-Sales-Report
+# Dashboard GIF
 
 
 ![Dasboard Mockup](images/SalesReportGIF.gif)
