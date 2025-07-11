@@ -62,9 +62,16 @@ To identify top-performing product lines, customer segments, and shipping method
 -  Based on current trends, what will next quarter's top-selling sub-category likely be?
 
 
+## Tools
+
+| Tools | Purpose | 
+| --- | --- | 
+| Excel  |  Cleaning, Transformation, Processing and Visualization |
+
+
 ## Data
 
-Here are the columns used in achieving project goal
+Here are the Data columns used in achieving project goal
 
 -  KPIs
 -  Product segment
@@ -78,11 +85,6 @@ Here are the columns used in achieving project goal
 -  Year 
 
 
-## Tools
-
-| Tools | Purpose | 
-| --- | --- | 
-| Excel  |  Cleaning, Transformation, Processing. |
 
 
 ## Dashboard design
@@ -106,8 +108,8 @@ Here is a list of appropriate chart visuals used in answering key questions.
 
 Here’s a step by step guide on how the data was approached 
 
--  Get the data from source
--  Load Excel
+-  Get data from source
+-  Load to Excel
 -  Clean and transform with Excel
 -  Visualizations using Excel customized charts
 -  Generate Insights
