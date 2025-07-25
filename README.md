@@ -1,7 +1,7 @@
 # Superstore Sales Report
 
 
-![Dasboard Mockup](images/SalesReportGIF.gif)
+![Dasboard Mockup](images/DashboardGIF.gif)
 
 
 # Table of Contents
@@ -99,9 +99,9 @@ Here is a list of appropriate chart visuals used in answering key questions.
 -  Line chart
 -  Filter panel
 
-![Dasboard design](images/Dashboard1.PNG)
+![Dasboard design](images/Dashboard%201.PNG)
 
-![Dasboard design](images/Dashboard2.PNG)
+![Dasboard design](images/Dashboard%202.PNG)
 
 
 # Development
